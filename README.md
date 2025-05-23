@@ -20,12 +20,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 10. Find the accuracy of our model and predict the require values.
 
 ## Program:
-
-~~~
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by:A.S.BHARANIKA
 RegisterNumber: 212224040048
-*/
+~~~
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data
